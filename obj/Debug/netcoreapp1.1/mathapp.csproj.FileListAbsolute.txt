@@ -1,0 +1,8 @@
+C:\Users\Eric\mathapp\bin\Debug\netcoreapp1.1\mathapp.deps.json
+C:\Users\Eric\mathapp\bin\Debug\netcoreapp1.1\mathapp.runtimeconfig.json
+C:\Users\Eric\mathapp\bin\Debug\netcoreapp1.1\mathapp.runtimeconfig.dev.json
+C:\Users\Eric\mathapp\bin\Debug\netcoreapp1.1\mathapp.dll
+C:\Users\Eric\mathapp\bin\Debug\netcoreapp1.1\mathapp.pdb
+C:\Users\Eric\mathapp\obj\Debug\netcoreapp1.1\mathapp.AssemblyInfo.cs
+C:\Users\Eric\mathapp\obj\Debug\netcoreapp1.1\mathapp.dll
+C:\Users\Eric\mathapp\obj\Debug\netcoreapp1.1\mathapp.pdb
